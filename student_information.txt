@@ -1,0 +1,4 @@
+Personal Details
+Name : simon
+Date of Birth : 28-07-2004
+Mobile Number : 9876543210
